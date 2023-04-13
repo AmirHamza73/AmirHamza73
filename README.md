@@ -24,3 +24,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/AmirHamza73)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AmirHamza73)  
+
+![Profile views](https://gpvc.arturio.dev/AmirHamza73)  
